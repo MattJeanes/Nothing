@@ -1,0 +1,12 @@
+{
+	"title"		:	"Nothing",
+	"type"		:	"effects",
+	"tags"		:	[ "realism", "roleplay" ],
+	"ignore"	:
+	[
+		"*.md",
+		"*.txt",
+		"*.git*",
+		"*.fgd"
+	]
+}
