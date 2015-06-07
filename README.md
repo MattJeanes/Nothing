@@ -8,4 +8,8 @@ Nothing
 
 Installation
 =
-Remove any previous versions then put this folder into Steam/Steamapps/common/garrysmod/garrysmod/addons/.
+Remove any previous versions then put this folder into Steam/Steamapps/common/garrysmod/garrysmod/addons/
+
+Features
+=
+Nothing
