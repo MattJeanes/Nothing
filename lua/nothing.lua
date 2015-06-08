@@ -7,7 +7,7 @@ end
 --]]
 --[[
 function mds()
-  while os = "mobile" do
+  while os == "mobile" do
     nothing(nothing)
   end
 end
